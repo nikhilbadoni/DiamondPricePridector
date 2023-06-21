@@ -1,0 +1,10 @@
+numpy
+pandas
+Flask
+ipykernel
+seaborn
+<<<<<<< HEAD
+=======
+scikit-learn
+>>>>>>> 40b0bbf (Model Training)
+#-e .
