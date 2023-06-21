@@ -4,16 +4,12 @@
 ### Created a Enviornment
 
 ```
-conda create -p venv python==3.8
-=======
 
-
-```
 conda create -p venv python==3.11
 
 ```
 
- ### Install All necessary libraries
+### Install All necessary libraries
 
 ```
 pip install -r requirements.txt
